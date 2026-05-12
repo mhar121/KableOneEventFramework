@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-KableOneEventsFramework/Pods-KableOneEventsFramework-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/Alamofire-static/Alamofire.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Kingfisher-static/Kingfisher.bundle
